@@ -23,7 +23,7 @@ This project aims to identify, assess, and mitigate potential risks for a transp
   </thead>
   <tbody>
     <tr>
-      <td>Risk Identification</td>
+      <td>Risk Risk Spotting</td>
       <td>Identifying potential risks through various methods such as brainstorming, expert interviews, and analysis of past incidents.</td>
     </tr>
     <tr>
