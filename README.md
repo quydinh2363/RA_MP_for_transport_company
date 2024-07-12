@@ -20,6 +20,11 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 | ___Risk Analysis___           | Evaluating the identified risks based on their impact and likelihood.                         |
 | ___Risk Evaluation___       | Prioritizing the risks to determine which ones require immediate attention and mitigation.    |
 
+## :large_blue_diamond: Mitigation Plan
+- Developing strategies to address high-priority risks.
+- Implementing control measures to reduce the likelihood and impact of risks.
+- Monitoring and reviewing the effectiveness of these measures.
+
 
 
 
