@@ -5,7 +5,7 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 
 ## :large_blue_diamond: Table of Contents
 - [Project Title](#project-title)
-- [Project Description](#Project Description)
+- [Project Description](#Project-description)
 - [Table of Contents](#table-of-contents)
 - [Objectives](#objectives)
 - [Risk Assessment Process](#risk-assessment-process)
@@ -13,7 +13,6 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - [Implementation](#implementation)
 - [Contributors](#contributors)
 - [License](#license)
-
 
 ## :large_blue_diamond: Preview screenshots
 <p align="center">
