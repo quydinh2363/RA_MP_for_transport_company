@@ -16,9 +16,9 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 ## :large_blue_diamond: Risk Assessment Process
 | Process                   | Description                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------|
-| ___Risk Identification__     | Identifying potential risks through various methods such as brainstorming, expert interviews, and analysis of past incidents. |
-| ____Risk Analysis_____           | Evaluating the identified risks based on their impact and likelihood.                         |
-| _____Risk Evaluation _____       | Prioritizing the risks to determine which ones require immediate attention and mitigation.    |
+| ___Risk Identification___    | Identifying potential risks through various methods such as brainstorming, expert interviews, and analysis of past incidents. |
+| ___Risk Analysis___           | Evaluating the identified risks based on their impact and likelihood.                         |
+| ___Risk Evaluation___       | Prioritizing the risks to determine which ones require immediate attention and mitigation.    |
 
 
 
