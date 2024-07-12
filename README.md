@@ -11,7 +11,7 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - [Risk Assessment Process](#risk-assessment-process)
 - [Mitigation Plan](#mitigation-plan)
 - [Implementation](#implementation)
-- [:large_blue_diamond: Contributors](#contributors)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## :large_blue_diamond: Preview screenshots
@@ -42,7 +42,7 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - Conducting training sessions for staff.
 - Regularly reviewing and updating the risk assessment and mitigation plan include systems or technologies.
 
-## :large_blue_diamond: Contributors
+## Contributors
 - Dinh Ngoc Quy (me): Presenter, slide designer, mind map designer, 
 - Nguyen Huu Hau (team member): Presenter, slide designer, heat map designer.
 
