@@ -3,15 +3,11 @@
 ## Project Description
 This project aims to identify, assess, and mitigate potential risks for a transport company to ensure safety, efficiency, and compliance with regulations.
 
-- [Project Title](#project-title)
-- [Project Description](#project-description)
-- [Table of Contents](#table-of-contents)
-- [Objectives](#objectives)
-- [Risk Assessment Process](#risk-assessment-process)
-- [Mitigation Plan](#mitigation-plan)
-- [Implementation](#implementation)
-- [Contributors](#contributors)
-- [License](#license)
+## Preview screenshots
+<p align="center">
+  <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/images/image1.png" alt="Image 1" width="200" height="200" />
+  <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/images/image2.png" alt="Image 2" width="200" height="200" />
+</p>
 
 
 
