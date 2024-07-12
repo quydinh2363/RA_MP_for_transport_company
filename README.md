@@ -7,13 +7,11 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - [Project Description](#project-description)
 - [Preview screenshots](#preview-screenshots)
 - [Table of Contents](#table-of-contents)
-- [Objectives](#objectives)
 - [Risk Assessment Process](#risk-assessment-process)
 - [Mitigation Plan](#mitigation-plan)
 - [Implementation](#implementation)
 - [Contributors](#contributors)
 - [Reference](#reference)
-
 
 ## Preview screenshots
 <p align="center">
