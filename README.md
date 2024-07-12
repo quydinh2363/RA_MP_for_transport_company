@@ -50,6 +50,9 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - https://safetyculture.com/topics/risk-assessment/
 - https://www.sciencedirect.com/topics/computer-science/mitigation-plan
 
+![Encryption/Decryption Tool](https://img.shields.io/badge/version-1.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 © | 2024 quydinh2363
   
 
