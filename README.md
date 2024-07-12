@@ -3,6 +3,18 @@
 ## :large_blue_diamond: Project Description
 This project aims to identify, assess, and mitigate potential risks for a transport company to ensure safety, efficiency, and compliance with regulations.
 
+## :large_blue_diamond: Table of Contents
+- [Project Title](#project-title)
+- [Project Description](#project-description)
+- [Table of Contents](#table-of-contents)
+- [Objectives](#objectives)
+- [Risk Assessment Process](#risk-assessment-process)
+- [Mitigation Plan](#mitigation-plan)
+- [Implementation](#implementation)
+- [Contributors](#contributors)
+- [License](#license)
+
+
 ## :large_blue_diamond: Preview screenshots
 <p align="center">
   <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/images/image1.png" alt="Image 1" width="400" height="200" />
@@ -32,13 +44,13 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - Regularly reviewing and updating the risk assessment and mitigation plan include systems or technologies.
 
 ## :large_blue_diamond: Contributors
-- Dinh Ngoc Quy (me): Presenter, slide designer, Mind map designer, 
-- Nguyen Huu Hau (team member): Presenter, Slide designer, Heat map designer.
+- Dinh Ngoc Quy (me): Presenter, slide designer, mind map designer, 
+- Nguyen Huu Hau (team member): Presenter, slide designer, heat map designer.
 
 ## :large_blue_diamond: reference
-https://www.lucidchart.com/blog/risk-assessment-process
-https://safetyculture.com/topics/risk-assessment/
-https://www.sciencedirect.com/topics/computer-science/mitigation-plan
+- https://www.lucidchart.com/blog/risk-assessment-process
+- https://safetyculture.com/topics/risk-assessment/
+- https://www.sciencedirect.com/topics/computer-science/mitigation-plan
 
   
 
