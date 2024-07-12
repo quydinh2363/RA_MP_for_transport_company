@@ -50,6 +50,7 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - https://safetyculture.com/topics/risk-assessment/
 - https://www.sciencedirect.com/topics/computer-science/mitigation-plan
 
+© | 2024 quydinh2363
   
 
 
