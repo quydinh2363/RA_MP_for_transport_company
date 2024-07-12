@@ -25,6 +25,23 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - Implementing control measures to reduce the likelihood and impact of risks.
 - Monitoring and reviewing the effectiveness of these measures.
 
+## :large_blue_diamond: Implementation
+- Assigning responsibilities to team members.
+- Setting timelines for the implementation of mitigation measures.
+- Conducting training sessions for staff.
+- Regularly reviewing and updating the risk assessment and mitigation plan include systems or technologies.
+
+## :large_blue_diamond: Contributors
+- Dinh Ngoc Quy (me): Presenter, slide designer, Mind map designer, 
+- Nguyen Huu Hau (team member): Presenter, Slide designer, Heat map designer.
+
+## :large_blue_diamond: reference
+https://www.lucidchart.com/blog/risk-assessment-process
+https://safetyculture.com/topics/risk-assessment/
+https://www.sciencedirect.com/topics/computer-science/mitigation-plan
+
+  
+
 
 
 
