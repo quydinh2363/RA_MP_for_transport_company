@@ -11,7 +11,7 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - [Risk Assessment Process](#risk-assessment-process)
 - [Mitigation Plan](#mitigation-plan)
 - [Implementation](#implementation)
-- [Contributors](#contributors)
+- [:large_blue_diamond: Contributors](#contributors)
 - [License](#license)
 
 ## :large_blue_diamond: Preview screenshots
