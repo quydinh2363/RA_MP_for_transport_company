@@ -44,14 +44,14 @@ graph TD;
 ```
 ## Mitigation Plan
 - Provide tactical and time-sensitive actions:
-  . Immediate actions
-  . Short-term actions
-  . Long-term actions
+  1. Immediate actions
+  2. Short-term actions
+  3. Long-term actions
 - Mobilize resources.
 - Determine budget to meet the needs of the risk:
-  . resources
-  . Technology
-  . Mistakes can happen
+  1. resources
+  2. Technology
+  3. Mistakes can happen
   
 ## Contributors
 | Member                  |Role                                |
