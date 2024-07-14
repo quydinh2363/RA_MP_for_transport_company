@@ -7,11 +7,12 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - [Project Description](#project-description)
 - [Preview screenshots](#preview-screenshots)
 - [Table of Contents](#table-of-contents)
-- [Risk Assessment Process](#risk-assessment-process)
+- [Evaluation process](#evaluation-process)
 - [Mitigation Plan](#mitigation-plan)
 - [Implementation](#implementation)
 - [Contributors](#contributors)
 - [Reference](#reference)
+- <a href="https://mm.tt/app/map/3353712700?t=0tkkqx3GAU">Mind map link</a>
 
 ## Preview screenshots
 <p align="center">
@@ -23,7 +24,7 @@ This project aims to identify, assess, and mitigate potential risks for a transp
   <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/MINDMAP%20OVERVIEW.png" alt="Image 2" width="400" height="200" />
 </p>
 
-## evaluation process 
+## Evaluation process 
 ```mermaid
 graph TD;
     Identify_main_systems-->Identify_high_risk;
@@ -41,35 +42,29 @@ graph TD;
     Actions-->Long_term_actions;
 
 ```
-
-## Risk Assessment Process
-| Process                   | Description                                                                                  |
-|-------------------------|----------------------------------------------------------------------------------------------|
-| ___Risk Identification___    | Identifying potential risks through various methods such as brainstorming, expert interviews, and analysis of past incidents. |
-| ___Risk Analysis___           | Evaluating the identified risks based on their impact and likelihood.                         |
-| ___Risk Evaluation___       | Prioritizing the risks to determine which ones require immediate attention and mitigation.    |
-
 ## Mitigation Plan
-- Developing strategies to address high-priority risks.
-- Implementing control measures to reduce the likelihood and impact of risks.
-- Monitoring and reviewing the effectiveness of these measures.
-
-## Implementation
-- Assigning responsibilities to team members.
-- Setting timelines for the implementation of mitigation measures.
-- Conducting training sessions for staff.
-- Regularly reviewing and updating the risk assessment and mitigation plan include systems or technologies.
-
+- Provide tactical and time-sensitive actions:
+  . Immediate actions
+  . Short-term actions
+  . Long-term actions
+- Mobilize resources.
+- Determine budget to meet the needs of the risk:
+  . resources
+  . Technology
+  . Mistakes can happen
+  
 ## Contributors
-- Dinh Ngoc Quy (me): Presenter, slide designer, mind map designer, 
-- Nguyen Huu Hau (team member): Presenter, slide designer, heat map designer.
+| Member                  |Role                                |
+|-------------------------|------------------------------------|
+| Dinh Ngoc Quy | Presenter, slide designer, mind map designer |
+| Nguyen Huu Hau | Presenter, slide designer, heat map designer |
 
 ## Reference
 - https://www.lucidchart.com/blog/risk-assessment-process
 - https://safetyculture.com/topics/risk-assessment/
 - https://www.sciencedirect.com/topics/computer-science/mitigation-plan
 
-![Encryption/Decryption Tool](https://img.shields.io/badge/version-1.0-blue.svg)
+![GroupProject](https://img.shields.io/badge/version-1.0-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 © | 2024 quydinh2363
