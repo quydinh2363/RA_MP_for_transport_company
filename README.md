@@ -51,12 +51,16 @@ graph TD;
   + resources
   + Technology
   + Mistakes can happen
+
+For more details, please go to <a href="https://mm.tt/app/map/3353712700?t=0tkkqx3GAU">Mind map link</a>
   
 ## Contributors
 | Member                  |Role                                |
 |-------------------------|------------------------------------|
-| Dinh Ngoc Quy | Presenter, slide designer, mind map designer |
+| Dinh Ngoc Quy (Leader) | Presenter, slide designer, mind map designer |
 | Nguyen Huu Hau | Presenter, slide designer, heat map designer |
+| Tran Tien Dung | Presenter, brainstorming idea, Performing tasks |
+| Nguyen Hoang Tuan | Presenter, brainstorming idea, Performing tasks |
 
 ## Reference
 - https://www.lucidchart.com/blog/risk-assessment-process
