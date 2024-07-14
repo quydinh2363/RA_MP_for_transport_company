@@ -26,19 +26,20 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 ## evaluation process 
 ```mermaid
 graph TD;
-    Identify main systems-->Identify high risk;
-    Identify main systems-->Identify scope;
-    Identify main systems-->Past incidents;
-    Past incidents-->Mitigatte plans;
-    Identify high risk-->Mitigate plans;
-    Identify scope-->Mitigate plans;
-    Mitigate plans-->Actions
-    Mitigate plans-->Budget
-    Mitigate plans-->Resource
-    Mitigate plans-->Technology
-    Actions-->Immediate actions
-    Actions-->Short-term actions
-    Actions-->Long-term actions
+    Identify_main_systems-->Identify_high_risk;
+    Identify_main_systems-->Identify_scope;
+    Identify_main_systems-->Past_incidents;
+    Past_incidents-->Mitigate_plans;
+    Identify_high_risk-->Mitigate_plans;
+    Identify_scope-->Mitigate_plans;
+    Mitigate_plans-->Actions;
+    Mitigate_plans-->Budget;
+    Mitigate_plans-->Resource;
+    Mitigate_plans-->Technology;
+    Actions-->Immediate_actions;
+    Actions-->Short_term_actions;
+    Actions-->Long_term_actions;
+
 ```
 
 ## Risk Assessment Process
