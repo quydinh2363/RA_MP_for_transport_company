@@ -1,7 +1,7 @@
 # Welcome to My Group Project 👋 - Risk Assessement and Mitigate plan for Transport Company.
 
 ## Project Description
-:truck: This project aims to identify, assess, and mitigate potential risks for a transport company to ensure safety, efficiency, and compliance with regulations. :truck:
+:truck: This project aims to identify, assess, and mitigate potential risks for a transport company to ensure safety, efficiency, and compliance with regulations. 
 
 ## Table of Contents
 - [Project Description](#project-description)
