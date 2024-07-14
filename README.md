@@ -23,6 +23,15 @@ This project aims to identify, assess, and mitigate potential risks for a transp
   <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/MINDMAP%20OVERVIEW.png" alt="Image 2" width="400" height="200" />
 </p>
 
+## test 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ## Risk Assessment Process
 | Process                   | Description                                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------|
