@@ -9,7 +9,6 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 - [Table of Contents](#table-of-contents)
 - [Evaluation process](#evaluation-process)
 - [Mitigation Plan](#mitigation-plan)
-- [Implementation](#implementation)
 - [Contributors](#contributors)
 - [Reference](#reference)
 - <a href="https://mm.tt/app/map/3353712700?t=0tkkqx3GAU">Mind map link</a>
@@ -44,14 +43,14 @@ graph TD;
 ```
 ## Mitigation Plan
 - Provide tactical and time-sensitive actions:
-  1. Immediate actions
-  2. Short-term actions
-  3. Long-term actions
+  + Immediate actions
+  + Short-term actions
+  + Long-term actions
 - Mobilize resources.
 - Determine budget to meet the needs of the risk:
-  1. resources
-  2. Technology
-  3. Mistakes can happen
+  + resources
+  + Technology
+  + Mistakes can happen
   
 ## Contributors
 | Member                  |Role                                |
