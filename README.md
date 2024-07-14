@@ -23,13 +23,22 @@ This project aims to identify, assess, and mitigate potential risks for a transp
   <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/MINDMAP%20OVERVIEW.png" alt="Image 2" width="400" height="200" />
 </p>
 
-## test 
+## evaluation process 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Identify main systems-->Identify high risk;
+    Identify main systems-->Identify scope;
+    Identify main systems-->Past incidents;
+    Past incidents-->Mitigatte plans;
+    Identify high risk-->Mitigate plans;
+    Identify scope-->Mitigate plans;
+    Mitigate plans-->Actions
+    Mitigate plans-->Budget
+    Mitigate plans-->Resource
+    Mitigate plans-->Technology
+    Actions-->Immediate actions
+    Actions-->Short-term actions
+    Actions-->Long-term actions
 ```
 
 ## Risk Assessment Process
