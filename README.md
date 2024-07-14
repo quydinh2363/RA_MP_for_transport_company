@@ -15,8 +15,8 @@ This project aims to identify, assess, and mitigate potential risks for a transp
 
 ## Preview screenshots
 <p align="center">
-  <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/HEATMAP%20OVERVIEW.png" alt="Image 1" width="800" height="400" />
-  <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/MINDMAP%20OVERVIEW.png" alt="Image 2" width="800" height="400" />
+  <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/HEATMAP%20OVERVIEW.png" alt="Image 1" width="1000" height="500" />
+  <img src="https://github.com/quydinh2363/risk_assessment_and_mitigate_plan_for_transport_company/blob/main/MINDMAP%20OVERVIEW.png" alt="Image 2" width="1000" height="500" />
 </p>
 
 ## Evaluation process 
